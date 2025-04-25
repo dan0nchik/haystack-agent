@@ -4,6 +4,12 @@ MVP of HayStack RAG agent based on Obsidian notes.
 
 ## How to run:
 
+0. Export env variables
+```bash
+export OPENAI_API_KEY = "YOUR API KEY"
+```
+
+
 1. Install uv package manager
 ```
 pip install uv
