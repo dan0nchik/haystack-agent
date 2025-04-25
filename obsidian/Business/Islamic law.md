@@ -1,0 +1,1 @@
+Sharia, the fundamental religious concept of Islam
